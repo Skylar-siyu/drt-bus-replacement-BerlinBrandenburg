@@ -1,6 +1,0 @@
-FINAL_v5_REPOSITORY_PIPELINE
-
-Core analysis source: preserved FINAL v5 snapshot.
-B/C orchestration: reconstructed from the recorded incremental run and verified
-against ABC_analysis_results_01_04.tar.gz.
-Final dissertation figure generation is intentionally excluded.
