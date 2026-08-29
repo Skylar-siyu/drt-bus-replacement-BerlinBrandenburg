@@ -1,7 +1,0 @@
-geopandas>=0.14
-matplotlib>=3.8
-numpy>=1.26
-pandas>=2.1
-Pillow>=10.0
-pyogrio>=0.7
-shapely>=2.0
