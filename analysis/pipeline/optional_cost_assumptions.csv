@@ -1,6 +1,0 @@
-parameter,value,unit,comment
-DRT_vehicle_hour_cost,,EUR/vehicle-hour,Leave blank unless you have a defensible source
-DRT_vehicle_km_cost,,EUR/vehicle-km,Leave blank unless you have a defensible source
-DRT_fixed_vehicle_day_cost,,EUR/vehicle-day,Optional
-BUS_vehicle_hour_cost,,EUR/vehicle-hour,Leave blank unless you have a defensible source
-BUS_vehicle_km_cost,,EUR/vehicle-km,Leave blank unless you have a defensible source
