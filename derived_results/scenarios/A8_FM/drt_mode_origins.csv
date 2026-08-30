@@ -1,0 +1,7 @@
+b0_mode,transition_class,trips,share_of_drt_containing_trips
+bike,active_mode_to_DRT,8,0.055944055944055944
+car,car_to_DRT,25,0.17482517482517482
+pt,other_PT_to_DRT,41,0.2867132867132867
+pt,target_bus_to_DRT,50,0.34965034965034963
+ride,other_mode_to_DRT,7,0.04895104895104895
+walk,active_mode_to_DRT,12,0.08391608391608392

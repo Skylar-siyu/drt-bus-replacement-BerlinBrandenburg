@@ -1,0 +1,4 @@
+b0_mode,transition_class,trips,share_of_drt_containing_trips
+car,car_to_DRT,3,0.1
+pt,other_PT_to_DRT,9,0.3
+pt,target_bus_to_DRT,18,0.6
