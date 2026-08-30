@@ -1,0 +1,2 @@
+road_vkt_km,road_travel_time_h,road_delay_h,link_traversals,unique_road_vehicles,emission_events,drt_regex_road_vkt_km,drt_regex_road_travel_time_h,drt_regex_road_delay_h,drt_regex_link_traversals,drt_regex_unique_road_vehicles,drt_regex_emission_events,drt_regex_vehicle_ids_detected
+10281761.755636014,1175929.4574900856,959090.907240021,41969533,128377,0,839.4150799999985,94.70499999999998,76.1535208219787,3509,8,0,8

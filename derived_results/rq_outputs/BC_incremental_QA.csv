@@ -1,0 +1,3 @@
+scenario,case,scenario_dir_exists,required_files_present,required_files_total,missing_files,baseline_unique_target_riders,baseline_target_boardings,paired_target_riders_n,paired_target_trips_n,mean_delta_utility,share_better,share_worse,mean_delta_journey_min,drt_users,drt_containing_trip_keys,network_summary_present,network_hourly_present
+B6_PTI,B,1,15,15,,47.0,70.0,47.0,70.0,-7.1596585638852135,0.1914893617021277,0.8085106382978723,-6.5121428571428535,29.0,100.0,1,1
+C22_PTI,C,1,15,15,,1190.0,1833.0,1190.0,1832.0,-5.3670114063154895,0.11680672268907565,0.8831932773109243,2.475682314410473,328.0,1188.0,1,1

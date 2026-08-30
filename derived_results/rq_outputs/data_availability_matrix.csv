@@ -1,0 +1,11 @@
+scenario,case,utility,paired_trip_service,mode_transitions,equity,spatial_person_file,DRT_KPI,network_congestion,direct_emissions
+A4_FL,A,1,1,1,1,1,1,0,0
+A8_FL,A,1,1,1,1,1,1,0,0
+A12_FL,A,1,1,1,1,1,1,0,0
+A4_FH,A,1,1,1,1,1,1,0,0
+A8_FH,A,1,1,1,1,1,1,0,0
+A12_FH,A,1,1,1,1,1,1,0,0
+A8_FM,A,1,1,1,1,1,1,1,0
+A8_SUB1,A,1,1,1,1,1,1,0,0
+B6_PTI,B,1,1,1,1,1,1,1,0
+C22_PTI,C,1,1,1,1,1,1,1,0

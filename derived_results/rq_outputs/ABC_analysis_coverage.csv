@@ -1,0 +1,11 @@
+scenario,has_utility,has_trip_impacts,has_mode_transition,has_target_bus_transition,has_drt_origins,has_equity,has_person_level,has_time_of_day,has_raw_drt_kpi,has_network
+A4_FL,1,1,1,1,1,1,1,1,1,0
+A8_FL,1,1,1,1,1,1,1,1,1,0
+A12_FL,1,1,1,1,1,1,1,1,1,0
+A4_FH,1,1,1,1,1,1,1,1,1,0
+A8_FH,1,1,1,1,1,1,1,1,1,0
+A12_FH,1,1,1,1,1,1,1,1,1,0
+A8_FM,1,1,1,1,1,1,1,1,1,1
+A8_SUB1,1,1,1,1,1,1,1,1,1,0
+B6_PTI,1,1,1,1,1,1,1,1,1,1
+C22_PTI,1,1,1,1,1,1,1,1,1,1
