@@ -1,0 +1,7 @@
+scenario_effective_mode,transition_class,trips,share_of_original_target_bus_trips
+DRT_CONTAINING,target_bus_to_DRT,433,0.23635371179039302
+bike,target_bus_to_bike,100,0.05458515283842795
+car,target_bus_to_car,418,0.22816593886462883
+pt,target_bus_to_other_PT,587,0.32041484716157204
+ride,target_bus_to_other,228,0.12445414847161572
+walk,target_bus_to_walk,66,0.036026200873362446
