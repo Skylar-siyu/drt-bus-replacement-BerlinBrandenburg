@@ -1,0 +1,2 @@
+served_requests,rejected_requests,rejection_rate,wait_mean_sec,drt_total_vkt_km,drt_empty_vkt_km,drt_occupied_vkt_km,min_idle_vehicles,mean_idle_vehicles,pooling_rate,sharing_factor,empty_vkt_share,drt_vkt_per_served_request_km,served_requests_per_vehicle
+16.15,0.0,0.0,255.044,145.83587200000002,30.0624125,121.445541,4.0,4.0,0.14154411764705882,1.1113710306561762,0.2061386686809127,9.030084953560374,4.0375
